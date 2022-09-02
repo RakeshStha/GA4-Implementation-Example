@@ -1,11 +1,11 @@
 GA4 Example
 ------------------------------------------------------------------------------------------------
 
-# Create account on google analytics using your gmail. <a href="https://support.google.com/analytics/answer/9306384?hl=en">See here</a>
+# Create account on google analytics using your gmail. <a href="https://support.google.com/analytics/answer/9306384?hl=en" target="_blank">See here</a>
 
-# [GA4] Set up Analytics for a website and/or app. <a href="https://support.google.com/analytics/answer/9304153?hl=en">See here</a>
+# [GA4] Set up Analytics for a website and/or app. <a href="https://support.google.com/analytics/answer/9304153?hl=en" target="_blank">See here</a>
 
-# Host react app on ngrok (command: ngrok http 3000) <a href="https://www.twilio.com/docs/usage/tutorials/how-use-ngrok-windows-and-visual-studio-test-webhooks">ngrok guide.</a>
+# Host react app on ngrok (command: ngrok http 3000) <a href="https://www.twilio.com/docs/usage/tutorials/how-use-ngrok-windows-and-visual-studio-test-webhooks" target="_blank">ngrok guide.</a>
 
 # Home page of the application
 
