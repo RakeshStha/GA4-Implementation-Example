@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+GA4 Example
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Create account on google analytics using your gmail. <a href="https://support.google.com/analytics/answer/9306384?hl=en">See here</a>
 
-## Available Scripts
+# [GA4] Set up Analytics for a website and/or app. <a href="https://support.google.com/analytics/answer/9304153?hl=en">See here</a>
 
-In the project directory, you can run:
+# Host react app on ngrok (command: ngrok http 3000) <a href="https://www.twilio.com/docs/usage/tutorials/how-use-ngrok-windows-and-visual-studio-test-webhooks">ngrok guide.</a>
 
-### `npm start`
+# Home page of the application
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![GA4 homepage](https://user-images.githubusercontent.com/56125560/188126599-300d1dd1-6171-4675-abba-bbe57b829c9e.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# ngrok live link example
 
-### `npm test`
+![ngrok ](https://user-images.githubusercontent.com/56125560/188126681-e6aa8219-ac8d-42fa-b8c6-60b770db2793.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Setup data stream using ngrok url
 
-### `npm run build`
+![GAR data stream](https://user-images.githubusercontent.com/56125560/188126737-77b88bc6-9593-4ea7-b327-caea2e25271e.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Real-time user data on GA4 dashboard
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![GA4 implementation](https://user-images.githubusercontent.com/56125560/188126802-697e8b2e-efbb-44b7-a276-c9620dfd843a.png)
