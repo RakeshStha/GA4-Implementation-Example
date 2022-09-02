@@ -1,5 +1,5 @@
 GA4 Example
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------------------------------------------------------------
 
 # Create account on google analytics using your gmail. <a href="https://support.google.com/analytics/answer/9306384?hl=en">See here</a>
 
